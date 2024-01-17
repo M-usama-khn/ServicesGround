@@ -5,20 +5,20 @@ body{
 }
 
 .industri-hero-sec, .all-partnership-hero-sec, .partnership-hero-sec, .contact-us-hero-sec, .get-in-touch{
-    background-image: url('../images/industri-hero.jpg');
+    background-image: url('../Images/industri-hero.jpg');
     background-repeat: no-repeat;
 	background-size: cover;
     padding-top: 158px;
     padding-bottom: 60px;
 }
 .all-partnership-hero-sec, .contact-us-hero-sec{
-    background-image: url('../images/partnership-hero.png');
+    background-image: url('../Images/partnership-hero.png');
 }
 .partnership-hero-sec{
-    background-image: url('../images/partnership-event.png');
+    background-image: url('../Images/partnership-event.png');
 }
 .get-in-touch{
-    background-image: url('../images/get-intouch.png');
+    background-image: url('../Images/get-intouch.png');
 }
 .title-hr{
 	border-top: 2px solid #F1C706;
@@ -360,7 +360,7 @@ a:hover{
 .selectdiv select{
     -webkit-appearance: none; 
     -moz-appearance: none; 
-    background-image: url("../images/polygon.png");
+    background-image: url("../Images/polygon.png");
     background-repeat: no-repeat;
     background-position-x: 95%;
     background-position-y: 23px;
@@ -556,7 +556,7 @@ input::-webkit-file-upload-button{
 
 /* ***** CAREER CSS START ***** */
 .career-hero{
-	background: url('../images/services_ground-bg.jpg');
+	background: url('../Images/services_ground-bg.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 159px 0 60px;
@@ -609,7 +609,7 @@ input::-webkit-file-upload-button{
 .select-city, .select-department{
     -webkit-appearance: none; 
     -moz-appearance: none; 
-    background-image: url("../images/black-polygon.png");
+    background-image: url("../Images/black-polygon.png");
     background-repeat: no-repeat;
     background-position-x: 95%;
     background-position-y: 23px;
